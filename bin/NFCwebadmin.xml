@@ -1,0 +1,1156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NFCwebadmin
+</name>
+</assembly>
+<members>
+<member name="F:NFCwebadmin.Login._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Login._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Login._UserName">
+<summary>
+UserName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Login._Password">
+<summary>
+Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Login._LoginButton">
+<summary>
+LoginButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:NFCwebadmin.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.Application">
+ <summary>
+ Devuelve información sobre la aplicación actual.
+ </summary>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.Computer">
+ <summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.User">
+ <summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.Request">
+ <summary>
+ Devuelve un objeto Request.
+ </summary>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.Response">
+ <summary>
+ Devuelve un objeto Response.
+ </summary>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.Log">
+ <summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member>
+<member name="P:NFCwebadmin.My.MyWebExtension.WebServices">
+ <summary>
+ Proporciona acceso a los servicios Web agregados a este proyecto.
+ </summary>
+</member>
+<member name="T:NFCwebadmin.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NFCwebadmin.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NFCwebadmin.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:NFCwebadmin.Test._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._cbMaterias">
+<summary>
+cbMaterias control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txTitulo">
+<summary>
+txTitulo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txDescripcion">
+<summary>
+txDescripcion control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta1">
+<summary>
+txPregunta1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP1R1">
+<summary>
+txP1R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP1R1">
+<summary>
+rbP1R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP1R2">
+<summary>
+txP1R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP1R2">
+<summary>
+rbP1R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP1R3">
+<summary>
+txP1R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP1R3">
+<summary>
+rbP1R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP1R4">
+<summary>
+txP1R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP1R4">
+<summary>
+rbP1R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP1R5">
+<summary>
+txP1R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP1R5">
+<summary>
+rbP1R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta2">
+<summary>
+txPregunta2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP2R1">
+<summary>
+txP2R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP2R1">
+<summary>
+rbP2R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP2R2">
+<summary>
+txP2R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP2R2">
+<summary>
+rbP2R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP2R3">
+<summary>
+txP2R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP2R3">
+<summary>
+rbP2R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP2R4">
+<summary>
+txP2R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP2R4">
+<summary>
+rbP2R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP2R5">
+<summary>
+txP2R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP2R5">
+<summary>
+rbP2R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta3">
+<summary>
+txPregunta3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP3R1">
+<summary>
+txP3R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP3R1">
+<summary>
+rbP3R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP3R2">
+<summary>
+txP3R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP3R2">
+<summary>
+rbP3R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP3R3">
+<summary>
+txP3R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP3R3">
+<summary>
+rbP3R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP3R4">
+<summary>
+txP3R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP3R4">
+<summary>
+rbP3R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP3R5">
+<summary>
+txP3R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP3R5">
+<summary>
+rbP3R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta4">
+<summary>
+txPregunta4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP4R1">
+<summary>
+txP4R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP4R1">
+<summary>
+rbP4R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP4R2">
+<summary>
+txP4R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP4R2">
+<summary>
+rbP4R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP4R3">
+<summary>
+txP4R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP4R3">
+<summary>
+rbP4R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP4R4">
+<summary>
+txP4R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP4R4">
+<summary>
+rbP4R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP4R5">
+<summary>
+txP4R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP4R5">
+<summary>
+rbP4R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta5">
+<summary>
+txPregunta5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP5R1">
+<summary>
+txP5R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP5R1">
+<summary>
+rbP5R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP5R2">
+<summary>
+txP5R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP5R2">
+<summary>
+rbP5R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP5R3">
+<summary>
+txP5R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP5R3">
+<summary>
+rbP5R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP5R4">
+<summary>
+txP5R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP5R4">
+<summary>
+rbP5R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP5R5">
+<summary>
+txP5R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP5R5">
+<summary>
+rbP5R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta6">
+<summary>
+txPregunta6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP6R1">
+<summary>
+txP6R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP6R1">
+<summary>
+rbP6R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP6R2">
+<summary>
+txP6R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP6R2">
+<summary>
+rbP6R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP6R3">
+<summary>
+txP6R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP6R3">
+<summary>
+rbP6R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP6R4">
+<summary>
+txP6R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP6R4">
+<summary>
+rbP6R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP6R5">
+<summary>
+txP6R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP6R5">
+<summary>
+rbP6R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta7">
+<summary>
+txPregunta7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP7R1">
+<summary>
+txP7R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP7R1">
+<summary>
+rbP7R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP7R2">
+<summary>
+txP7R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP7R2">
+<summary>
+rbP7R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP7R3">
+<summary>
+txP7R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP7R3">
+<summary>
+rbP7R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP7R4">
+<summary>
+txP7R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP7R4">
+<summary>
+rbP7R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP7R5">
+<summary>
+txP7R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP7R5">
+<summary>
+rbP7R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta8">
+<summary>
+txPregunta8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP8R1">
+<summary>
+txP8R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP8R1">
+<summary>
+rbP8R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP8R2">
+<summary>
+txP8R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP8R2">
+<summary>
+rbP8R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP8R3">
+<summary>
+txP8R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP8R3">
+<summary>
+rbP8R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP8R4">
+<summary>
+txP8R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP8R4">
+<summary>
+rbP8R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP8R5">
+<summary>
+txP8R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP8R5">
+<summary>
+rbP8R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta9">
+<summary>
+txPregunta9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP9R1">
+<summary>
+txP9R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP9R1">
+<summary>
+rbP9R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP9R2">
+<summary>
+txP9R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP9R2">
+<summary>
+rbP9R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP9R3">
+<summary>
+txP9R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP9R3">
+<summary>
+rbP9R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP9R4">
+<summary>
+txP9R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP9R4">
+<summary>
+rbP9R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP9R5">
+<summary>
+txP9R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP9R5">
+<summary>
+rbP9R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txPregunta10">
+<summary>
+txPregunta10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP10R1">
+<summary>
+txP10R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP10R1">
+<summary>
+rbP10R1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP10R2">
+<summary>
+txP10R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP10R2">
+<summary>
+rbP10R2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP10R3">
+<summary>
+txP10R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP10R3">
+<summary>
+rbP10R3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP10R4">
+<summary>
+txP10R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP10R4">
+<summary>
+rbP10R4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._txP10R5">
+<summary>
+txP10R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._rbP10R5">
+<summary>
+rbP10R5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NFCwebadmin.Test._btnRegisterTest">
+<summary>
+btnRegisterTest control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="NFC" Class="NFCDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=STEVEN-HP\SQLEXPRESS;Initial Catalog=NFC;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="NFCConnectionString1" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.QryLoginNFC" Method="QryLoginNFC">
+    <Parameter Name="Usuario" Parameter="usuario" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Clave" Parameter="clave" Type="System.String" DbType="VarChar(10)" />
+    <ElementType Name="QryLoginNFCResult">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="NVarChar(101)" CanBeNull="true" />
+      <Column Name="identificacion" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="tipo" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QryObtenerMateriasxDocente" Method="QryObtenerMateriasxDocente">
+    <Parameter Name="IdDocente" Parameter="idDocente" Type="System.Int32" DbType="Int" />
+    <ElementType Name="QryObtenerMateriasxDocenteResult">
+      <Column Name="IdMateria" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.spingresartest" Method="spingresartest">
+    <Parameter Name="idmateria" Type="System.Int32" DbType="Int" />
+    <Parameter Name="titulo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="descripcion" Type="System.String" DbType="VarChar(300)" />
+    <Parameter Name="preguntas" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="respuestas" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="correctas" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="idtest" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

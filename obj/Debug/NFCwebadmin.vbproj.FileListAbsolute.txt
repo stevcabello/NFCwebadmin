@@ -1,0 +1,18 @@
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.dll
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.pdb
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.xml
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.Resources.resources
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.dll
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.xml
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.pdb
+C:\Users\steven\Documents\Visual Studio 2010\Projects\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.dll.config
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.dll
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.pdb
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\bin\NFCwebadmin.xml
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.vbprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.Resources.resources
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.dll
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.xml
+C:\Users\pc\Desktop\NFCAPP\web site\NFCwebadmin\NFCwebadmin\obj\Debug\NFCwebadmin.pdb
